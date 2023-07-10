@@ -1,0 +1,22 @@
+{
+  "name": "web3_examples",
+  "version": "1.0.0",
+  "description": "How to use Web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lazlo22/web3-examples.git"
+  },
+  "license": "ISC",
+  "keywords": [
+    "web3.js",
+    "web3",
+    "ethereum"
+  ],
+  "dependencies": {
+    "web3": "^4.0.2"
+  }
+}
